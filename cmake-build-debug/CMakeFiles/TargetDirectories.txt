@@ -1,3 +1,0 @@
-/Users/aidanthomas/Documents/Code/C++/HuffEncoding/cmake-build-debug/CMakeFiles/HuffEncoding.dir
-/Users/aidanthomas/Documents/Code/C++/HuffEncoding/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/aidanthomas/Documents/Code/C++/HuffEncoding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
